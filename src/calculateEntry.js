@@ -1,7 +1,6 @@
 const data = require('../data/zoo_data');
 
 function countEntrants(entrants) {
-  // seu código aqui
   const classification = entrants.map((entrant) => {
     if (entrant.age < 18) return 'child';
     if (entrant.age >= 18 && entrant.age < 50) return 'adult';
@@ -16,7 +15,6 @@ function countEntrants(entrants) {
 }
 
 function calculateEntry(entrants) {
-  // seu código aqui
   if (!entrants || Object.keys(entrants).length === 0) return 0;
   const classification = countEntrants(entrants);
   let acc = 0;

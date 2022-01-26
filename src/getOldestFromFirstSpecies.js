@@ -1,7 +1,6 @@
 const data = require('../data/zoo_data');
 
 function getOldestFromFirstSpecies(id) {
-  // seu código aqui
   const selectedEmployee = data.employees.find((employee) => employee.id === id);
   const oldestAnimals = data.species
     .find((specie) => specie.id === selectedEmployee.responsibleFor[0]).residents

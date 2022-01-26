@@ -26,7 +26,6 @@ function findEmployee(obj) {
 }
 
 function getEmployeesCoverage(obj) {
-  // seu código aqui
   if (!obj) {
     return generateArrayAllEmployees();
   }

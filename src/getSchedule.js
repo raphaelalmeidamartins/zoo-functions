@@ -19,7 +19,6 @@ function getAnimal(animal) {
 }
 
 function getSchedule(scheduleTarget) {
-  // seu código aqui
   const arrayAnimais = data.species.map((specie) => specie.name);
   const arrayDays = Object.keys(data.hours);
   const schedule = arrayDays.reduce((finalObj, day) => {

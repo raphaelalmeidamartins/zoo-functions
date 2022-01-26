@@ -1,7 +1,6 @@
 const data = require('../data/zoo_data');
 
 function countAnimals(animal) {
-  // seu código aqui
   const totalAnimais = data.species.reduce((objAcc, currSpecie) => {
     const newObject = {};
     const specie = currSpecie.name;

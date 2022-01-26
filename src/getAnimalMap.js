@@ -27,7 +27,6 @@ function returnObjectWithNames(classification, sorted, sex) {
 }
 
 function getAnimalMap(options) {
-  // seu código aqui
   const regions = [...new Set(data.species.map((specie) => specie.location))];
   const classification = regions.reduce((finalObject, region) => {
     const newObj = {};
