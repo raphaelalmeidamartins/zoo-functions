@@ -8,7 +8,7 @@ function getOldestFromFirstSpecies(id) {
       if (oldest.age > current.age) return oldest;
       return current;
     }, 0);
-  return [...Object.values(oldestAnimals)];
+  return Object.values(oldestAnimals);
 }
 
 module.exports = getOldestFromFirstSpecies;
