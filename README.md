@@ -2,7 +2,7 @@
 
 ## :page_with_curl: About
 
-JavaScript project developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of the Unit 8 Module 1 of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
+JavaScript project developed by me ([Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/)) at the end of Unit 8 ([Principles of Web Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/1_fundamentos-do-desv-web)) of the [Trybe](https://www.betrybe.com)'s Web Development course. I was approved with 100% of the mandatory and optional requirements met.
 
 We had to solve programming logic, and object/array manipulation challenges by using ES6 features such as **HOFs**, **arrow functions**, **array/object destructuring**, **spread operator**, **rest parameter** and more.
 
