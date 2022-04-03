@@ -6,6 +6,12 @@ JavaScript project developed by me ([Raphael Martins](https://www.linkedin.com/i
 
 We had to solve programming logic, and object/array manipulation challenges by using ES6 features such as **HOFs**, **arrow functions**, **array/object destructuring**, **spread operator**, **rest parameter** and more.
 
+## :man_technologist: Developed Skills
+
+* Solve programming logic challenges with JavaScript ES6+ features
+* Use array HOFs
+* Manipulate JavaScript objects and arrays
+
 ## :hammer_and_wrench: Tools
 
 * JavaScript ES6+
