@@ -1,4 +1,4 @@
-# :globe_with_meridians: Zoo Functions :globe_with_meridians:
+# :giraffe: Zoo Functions :lion:
 
 ## :page_with_curl: About
 
